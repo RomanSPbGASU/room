@@ -1,0 +1,29 @@
+<?php
+
+$LANG['plugin_room'][0] = 'Управление помещениями';
+$LANG['plugin_room'][1] = 'Плагин установлен и обновлён - Потрясающе!';
+$LANG['plugin_room'][2] = 'Плагин не установлен!';
+$LANG['plugin_room'][3] = 'Добавить помещение';
+$LANG['plugin_room'][4] = 'Посадочное место';
+$LANG['plugin_room'][5] = 'Условия доступа';
+$LANG['plugin_room'][6] = 'Доска';
+$LANG['plugin_room'][7] = 'Видео прожектор';
+$LANG['plugin_room'][8] = 'Wi-Fi';
+$LANG['plugin_room'][9] = 'Тип помещения';
+$LANG['plugin_room'][10] = 'Responsible';
+$LANG['plugin_room'][11] = 'Opening Times';
+$LANG['plugin_room'][12] = 'Ограничения';
+$LANG['plugin_room'][13] = 'Особенность 1';
+$LANG['plugin_room'][14] = 'Особенность 2';
+$LANG['plugin_room'][15] = 'Особенность 3';
+$LANG['plugin_room'][16] = 'Особенность 4';
+$LANG['plugin_room'][17] = 'Добавить помещение';
+$LANG['plugin_room'][18] = 'Количество компьютеров';
+$LANG['plugin_room'][19] = 'Помещение';
+$LANG['plugin_room'][20] = 'Этот компьютер в помещении:';
+$LANG['plugin_room'][21] = 'Связать';
+$LANG['plugin_room'][22] = 'Отделить';
+$LANG['plugin_room']['profile'][0] = 'Rights management';
+$LANG['plugin_room']['profile'][1] = 'Помещения';
+$LANG['plugin_room']['dropdown'][0] = 'Тип помещения';
+$LANG['plugin_room']['dropdown'][2] = 'Особенности помещения';
